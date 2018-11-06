@@ -14,6 +14,7 @@ int main()
     int j = 1;
     int k = 2;
     int sum  = 0;
+    sum  = i + j;
 
     return 0;
 }
